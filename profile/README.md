@@ -149,7 +149,7 @@ Whether it's a startup MVP, an enterprise dashboard, an AI-powered application, 
 ## Founders
 
 - **Sayan Barman**
-- **Sougato Kundu**
+- **Sougata Kundu**
 
 ## CEO
 
