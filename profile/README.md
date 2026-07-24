@@ -1,10 +1,12 @@
 <p align="center">
-  <img src="banner.png" alt="ISOTOPE Banner" width="100%" />
+  <img width="2172" height="724" alt="banner" src="https://github.com/user-attachments/assets/d6a4c790-e181-412d-bb6e-431974c96239" />
+
 </p>
 
 <div align="center">
 
-<img src="logo.png" alt="ISOTOPE Logo" width="90"/>
+<img width="1200" height="1200" alt="logo (2)" src="https://github.com/user-attachments/assets/7e513d23-eb19-4207-abe8-ccb28f154db0" />
+
 
 # ISOTOPE
 
