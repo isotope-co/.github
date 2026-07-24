@@ -5,7 +5,10 @@
 
 <div align="center">
 
-<img width="1200" height="1200" alt="logo (2)" src="https://github.com/user-attachments/assets/7e513d23-eb19-4207-abe8-ccb28f154db0" />
+<img src="https://github.com/user-attachments/assets/7e513d23-eb19-4207-abe8-ccb28f154db0" width="90" alt="ISOTOPE Logo"/>
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Sora&weight=700&size=28&duration=3500&pause=1200&color=2563EB&center=true&vCenter=true&width=900&lines=Building+Premium+Digital+Experiences;Web+Development+%E2%80%A2+AI+Solutions+%E2%80%A2+SaaS;Designing+Products+People+Love" />
+</p>
 
 
 # ISOTOPE
