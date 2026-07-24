@@ -106,35 +106,7 @@ Whether it's a startup MVP, an enterprise dashboard, an AI-powered application, 
 </tr>
 </table>
 
----
 
-# ⚙ Technology Stack
-
-## Frontend
-
-<p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind,ts,js,html,css" />
-</p>
-
-## Backend
-
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,python,fastapi" />
-</p>
-
-## Database
-
-<p>
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,firebase,supabase" />
-</p>
-
-## Cloud & Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=docker,vercel,netlify,cloudflare,git,github,vscode,figma" />
-</p>
-
----
 
 # 📊 Company Highlights
 
@@ -146,19 +118,17 @@ Whether it's a startup MVP, an enterprise dashboard, an AI-powered application, 
 
 # 👨‍💻 Leadership
 
-## Founders
+## CO-Founders
 
 - **Sayan Barman**
 - **Sougata Kundu**
 
-## CEO
-
-- **Pritam Sarkar**
 
 ## Core Team
 
+- **Pritam Sarkar**
 - **Soham Mangal**
-- **Sagnik Pal**
+- **Sagnik Bera**
 
 ---
 
